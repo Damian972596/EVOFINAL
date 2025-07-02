@@ -1,0 +1,4 @@
+[build]
+  base    = "project-bolt-sb1-bulc4doy (4)/project"
+  publish = "dist"
+  command = "npm install && npm run build"
